@@ -1,0 +1,43 @@
+
+h2{
+    color:verdana;
+}
+h1{
+    border:solid;  color:#000000;
+    background-color: #33aadd;
+    
+}
+p{
+    color:#000000;
+    border: solid;
+    background-color: #22ff00;
+}
+.header{
+    background-color:#333333;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+
+    display:flex;
+    flex-wrap: wrap;
+    
+    
+}
+
+
+.footer{
+    color:cyan;
+    display:flex;
+    justify-content: flex-end;
+    
+}
+body{
+    background-color: #888888;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+    text-align: center;
+    font-weight: 500;
+    font-style:oblique;
+    color: #ffffff;
+}
